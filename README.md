@@ -1,5 +1,5 @@
 # GetDu
-Pacote para trabalhar facilmente com dias úteis.
+Pacote que retorna variáveis de datas, considerando dias úteis e feriados em ptbr.
 
 Função principal "get_du" retorna uma data frame com as variáveis de data do mês atual, e do mesmo dia útil do mês anterior, já considerando feriados.
 
