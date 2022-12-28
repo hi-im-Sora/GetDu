@@ -6,6 +6,9 @@ Função principal "get_du" retorna uma data frame com as variáveis de data do 
 Para instalar basta extrair o arquivo zipado, e rodar o seguinte código dentro do R
 
 ##install.packages(devtools) ##Descomentar caso não tenha o pacote devtools instalado
+
 library(devtools)
+
 setwd(folder_directory)
+
 install(getDu)
